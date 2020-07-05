@@ -5,6 +5,6 @@
 
 [项目码云备份地址](https://gitee.com/happywlg/DIY_Face_recognition_system)
 
-![二维码](https://www.wangliguang.cn/wp-content/uploads/2019/02/qrcode_for_gh_93c6b7801a15_258.jpg)
+![二维码](https://www.wangliguang.cn/wp-content/uploads/2020/07/扫码_搜索联合传播样式-白色版.png)
 请扫码关注微信公众号Luke小站，发送project，以获取文档打开密码！
 关注微信公众号，随时与作者联系。
